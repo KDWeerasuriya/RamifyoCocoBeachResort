@@ -8,8 +8,8 @@ Project - ll - IIT 3rd Year (2016/17 Batch)- Group 03 Uva Wellassa University of
 Hello everyone. The Ramifyo Coco Beach Resort website is our 3rd year group project. Released date : 31st of August, 2021.
 
 Contibutors :
-Sameera Gurusinghe
 Kelum Dilshan
+Sameera Gurusinghe
 Kaveesha Navanjani
 Gayathri Dilrukshika
 
